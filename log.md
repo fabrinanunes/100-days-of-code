@@ -16,3 +16,11 @@
 **Thoughts:** Still studying if this is the best method, but now I already have a direction.
 
 **Link to work:** [Stock Ranking](https://github.com/isadorastan/stock-ranking)
+
+### Day 2: July 6, 2020
+
+**Today's Progress**: Add flag in SMALL caps because its volatility and higher risk.
+
+**Thoughts:** Spent a lot of time trying to webscrap without success.
+
+**Link to work:** [Stock Ranking](https://github.com/isadorastan/stock-ranking)
