@@ -24,3 +24,11 @@
 **Thoughts:** Spent a lot of time trying to webscrap without success.
 
 **Link to work:** [Stock Ranking](https://github.com/isadorastan/stock-ranking)
+
+### Day 3: July 7, 2020
+
+**Today's Progress**: Today I made a HUGEEEE progress, I'm so happy! I've learned web scrapping (with cheerio) to get some stock data from sites and I've used express to create my REST API!! Now my frontend can consume the api to get some data! Now I can calculate the intrinsic value! 
+
+**Thoughts:** Verry happy, made a lot of progress today!
+
+**Link to work:** [Stock Ranking](https://github.com/isadorastan/stock-ranking)
