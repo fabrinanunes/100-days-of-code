@@ -32,3 +32,19 @@
 **Thoughts:** Verry happy, made a lot of progress today!
 
 **Link to work:** [Stock Ranking](https://github.com/isadorastan/stock-ranking)
+
+### Day 4: July 9, 2020
+
+**Today's Progress**: I've decided create a script to create the table an save it in a file, so I can get it in the frontend and onnly display the data, all logic will the in the script.
+
+**Thoughts:** Took me a lot off time kkkk 
+
+**Link to work:** [Stock Ranking](https://github.com/isadorastan/stock-ranking)
+
+### Day 5: July 10, 2020
+
+**Today's Progress**: Finish to create the script and created a get method so frontend can get the data via API.
+
+**Thoughts:** Feeling good, my code looks more lean and organized.
+
+**Link to work:** [Stock Ranking](https://github.com/isadorastan/stock-ranking)
