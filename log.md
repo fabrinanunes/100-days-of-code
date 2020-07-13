@@ -48,3 +48,21 @@
 **Thoughts:** Feeling good, my code looks more lean and organized.
 
 **Link to work:** [Stock Ranking](https://github.com/isadorastan/stock-ranking)
+
+### Day 6: July 11, 2020
+
+**Today's Progress**: Decided to work in a side project with css and animations. Created the container and the right and left content. Was able to animate the left content already.
+
+**Thoughts:** Didn't finished yet, but made me think a lot
+
+**Link to work:** [Code Pen](https://codepen.io/isadorastan/pen/pogKxZG)
+
+
+### Day 7: July 12, 2020
+
+**Today's Progress**: Today I put a lot of time thinking on how to animate the intern part of content-right. As there are tho sections inside of it.. not sure yet about how to do it. 
+
+**Thoughts:** Didn't finished yet, but made me think a lot
+
+**Link to work:** [Code Pen](https://codepen.io/isadorastan/pen/pogKxZG)
+
