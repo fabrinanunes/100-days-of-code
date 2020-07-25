@@ -68,7 +68,7 @@
 
 ### Day 8: July 12, 2020
 
-**Today's Progress**: Finnally finished the animation!! 
+**Today's Progress**: Finally finished the animation!! 
 
 **Thoughts:** I've learned a lot about animations! 
 
@@ -81,3 +81,12 @@
 **Thoughts:** Love'd this site! 
 
 **Link to work:** [Code Pen](https://codepen.io/isadorastan/pen/pogYwyE)
+
+
+### Day 10: July 24, 2020
+
+**Today's Progress**: Need to study a little more about grid layouts
+
+**Thoughts:** Made a simple layout using grid
+
+**Link to work:** [Code Pen](https://codepen.io/isadorastan/pen/rNxRbKR)
