@@ -66,3 +66,18 @@
 
 **Link to work:** [Code Pen](https://codepen.io/isadorastan/pen/pogKxZG)
 
+### Day 8: July 12, 2020
+
+**Today's Progress**: Finnally finished the animation!! 
+
+**Thoughts:** I've learned a lot about animations! 
+
+**Link to work:** [Code Pen](https://codepen.io/isadorastan/pen/pogKxZG)
+
+### Day 9: July 23, 2020
+
+**Today's Progress**: Created this illustration only using CSS and HTML (chalenge from frontendmentor.io)
+
+**Thoughts:** Love'd this site! 
+
+**Link to work:** [Code Pen](https://codepen.io/isadorastan/pen/pogYwyE)
