@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+Jun 8th, 2021 (during COVID Pandemic)
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
@@ -22,7 +22,5 @@ June 25th, 2016. [PUT YOUR DATE HERE]
 5. Another good bonus of forking this repo -> if you haven't worked with Markdown before, it's a good way to practice.
 
 ## Contents
-* [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
 * [Resources](resources.md)
