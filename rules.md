@@ -23,4 +23,4 @@ Jun 8th, 2021 (during COVID Pandemic)
 
 ## Contents
 * [Log - click here to see my progress](log.md)
-* [Resources](resources.md)
+* [Resources](resources.md) 
