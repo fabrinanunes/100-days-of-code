@@ -20,8 +20,8 @@ Also, I started to read "Code Clean".
 
 #### Day 3: June 10, 2021
 
-**Today's Progress**: Today I could started and finished a small project. I created a Login page ☺️
+**Today's Progress**: Today I could started and finished a small project. I created a Login page ☺️ and also a game, called Guess Number.
 
 **Thoughts**: 
 
-**Link to work** [Login Page](https://github.com/fabrinanunes/login)
+**Link to work:** [Login Page](https://github.com/fabrinanunes/login) & [GuessNumber - Game](https://github.com/fabrinanunes/guess-number-game)
