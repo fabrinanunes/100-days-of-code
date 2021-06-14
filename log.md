@@ -27,3 +27,21 @@ Also, I started to read "Code Clean".
 **Today's Progress**: It was my day off, but since I commited to code for 100 days, I finished an online course where I learned to create a Star Wars Page.
 
 **Link to work:** [Wookieepedia](https://github.com/fabrinanunes/wookieepedia)
+
+### Day 4: Jun 12, 2021
+
+**Today's Progress**: I was able to complete the first module of Curso em Vídeo.
+
+**Link to work:** [Exercícios e Desafios @Curso em Vídeo](https://github.com/fabrinanunes/curso-em-video-html-css)
+
+### Day 5: Jun 13, 2021
+
+**Today's Progress**: I started module II - Curso em Vídeo.
+
+**Link to work:** [Exercícios e Desafios @Curso em Vídeo](https://github.com/fabrinanunes/curso-em-video-html-css/tree/main/Mo%CC%81dulo%20I)
+
+### Day 6: Jun 13, 2021
+
+**Today's Progress**: 
+
+**Link to work:** 
