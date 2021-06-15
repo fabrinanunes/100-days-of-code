@@ -40,8 +40,8 @@ Also, I started to read "Code Clean".
 
 **Link to work:** [Exercícios e Desafios @Curso em Vídeo](https://github.com/fabrinanunes/curso-em-video-html-css/tree/main/Mo%CC%81dulo%20I)
 
-### Day 6: Jun 13, 2021
+### Day 6: Jun 14, 2021
 
-**Today's Progress**: 
+**Today's Progress**: I finished my first workshop at SheCodes.io. I had to build a landing page with HTML, CSS and JS.
 
-**Link to work:** 
+**Link to work:** [Final Project](https://github.com/fabrinanunes/shecodesio)
