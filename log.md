@@ -45,3 +45,9 @@ Also, I started to read "Code Clean".
 **Today's Progress**: I finished my first workshop at SheCodes.io. I had to build a landing page with HTML, CSS and JS.
 
 **Link to work:** [Final Project](https://github.com/fabrinanunes/shecodesio)
+
+### Day 7: Jun 15, 2021
+
+**Today's Progress**: I start a Front-end Mentor Challenge.
+
+**Link to work:** 
