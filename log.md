@@ -50,4 +50,12 @@ Also, I started to read "Code Clean".
 
 **Today's Progress**: I start a Front-end Mentor Challenge.
 
-**Link to work:** 
+**Link to work:** [Card-Component](https://github.com/fabrinanunes/card-component)
+
+### Day 8: Jun 16, 2021
+
+**Today's Progress**: I completed the Card Component Challenge.
+
+**Link to work:** [Card-Component](https://github.com/fabrinanunes/card-component)
+
+
