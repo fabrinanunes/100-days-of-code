@@ -58,4 +58,8 @@ Also, I started to read "Code Clean".
 
 **Link to work:** [Card-Component](https://github.com/fabrinanunes/card-component)
 
+### Day 9: Jun 17, 2021
 
+**Today's Progress**: Did some exercises about CSS from Curso em Vídeo
+
+**Link to work:** [Exercícios - Módulo II](https://github.com/fabrinanunes/curso-em-video-html-css/tree/main/Mo%CC%81dulo%20II)
