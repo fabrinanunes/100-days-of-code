@@ -63,3 +63,9 @@ Also, I started to read "Code Clean".
 **Today's Progress**: Did some exercises about CSS from Curso em Vídeo
 
 **Link to work:** [Exercícios - Módulo II](https://github.com/fabrinanunes/curso-em-video-html-css/tree/main/Mo%CC%81dulo%20II)
+
+### Day 10: Jun 18, 2021
+
+**Today's Progress**: Started a new JS Project: a calculator 
+
+**Link to work:** 
