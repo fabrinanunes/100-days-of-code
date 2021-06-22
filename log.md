@@ -28,56 +28,64 @@ Also, I started to read "Code Clean".
 
 **Link to work:** [Wookieepedia](https://github.com/fabrinanunes/wookieepedia)
 
-### Day 4: Jun 12, 2021
+### Day 5: Jun 12, 2021
 
 **Today's Progress**: I was able to complete the first module of Curso em Vídeo.
 
 **Link to work:** [Exercícios e Desafios @Curso em Vídeo](https://github.com/fabrinanunes/curso-em-video-html-css)
 
-### Day 5: Jun 13, 2021
+### Day 6: Jun 13, 2021
 
 **Today's Progress**: I started module II - Curso em Vídeo.
 
 **Link to work:** [Exercícios e Desafios @Curso em Vídeo](https://github.com/fabrinanunes/curso-em-video-html-css/tree/main/Mo%CC%81dulo%20I)
 
-### Day 6: Jun 14, 2021
+### Day 7: Jun 14, 2021
 
 **Today's Progress**: I finished my first workshop at SheCodes.io. I had to build a landing page with HTML, CSS and JS.
 
 **Link to work:** [Final Project](https://github.com/fabrinanunes/shecodesio)
 
-### Day 7: Jun 15, 2021
+### Day 8: Jun 15, 2021
 
 **Today's Progress**: I start a Front-end Mentor Challenge.
 
 **Link to work:** [Card-Component](https://github.com/fabrinanunes/card-component)
 
-### Day 8: Jun 16, 2021
+### Day 9: Jun 16, 2021
 
 **Today's Progress**: I completed the Card Component Challenge.
 
 **Link to work:** [Card-Component](https://github.com/fabrinanunes/card-component)
 
-### Day 9: Jun 17, 2021
+### Day 10: Jun 17, 2021
 
 **Today's Progress**: Did some exercises about CSS from Curso em Vídeo
 
 **Link to work:** [Exercícios - Módulo II](https://github.com/fabrinanunes/curso-em-video-html-css/tree/main/Mo%CC%81dulo%20II)
 
-### Day 10: Jun 18, 2021
+### Day 11: Jun 18, 2021
 
 **Today's Progress**: Started a new JS Project: a calculator 
 
 **Link to work:** 
 
-### Day 10: Jun 19, 2021
+### Day 12: Jun 19, 2021
 
 **Today's Progress**: Exercises about CSS from Curso em Vídeo
 
 **Link to work:** [Exercícios - Módulo II](https://github.com/fabrinanunes/curso-em-video-html-css/tree/main/Mo%CC%81dulo%20II)
 
-### Day 10: Jun 20, 2021
+### Day 13: Jun 20, 2021
 
 **Today's Progress**: NLW #6 - Day I
 
-**Link to work:**
+**Link to work:** [NLW#6 - Discover](https://github.com/fabrinanunes/nlw6-discover)
+
+### Day 14: Jun 21, 2021
+
+**Today's Progress**: NLW #6 - Day II
+
+**Link to work:** [NLW#6 - Discover](https://github.com/fabrinanunes/nlw6-discover)
+
+
