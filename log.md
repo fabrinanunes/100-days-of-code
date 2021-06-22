@@ -88,4 +88,8 @@ Also, I started to read "Code Clean".
 
 **Link to work:** [NLW#6 - Discover](https://github.com/fabrinanunes/nlw6-discover)
 
+### Day 15: Jun 22, 2021
 
+**Today's Progress**: NLW #6 - Day II
+
+**Link to work:** [NLW#6 - Discover](https://github.com/fabrinanunes/nlw6-discover) & [NLW#6 - Origin](https://github.com/fabrinanunes/nlw6-origin)
