@@ -90,6 +90,12 @@ Also, I started to read "Code Clean".
 
 ### Day 15: Jun 22, 2021
 
-**Today's Progress**: NLW #6 - Day II
+**Today's Progress**: NLW #6 - Day III
+
+**Link to work:** [NLW#6 - Discover](https://github.com/fabrinanunes/nlw6-discover) & [NLW#6 - Origin](https://github.com/fabrinanunes/nlw6-origin)
+
+### Day 16: Jun 23, 2021
+
+**Today's Progress**: NLW #6 - Day IV
 
 **Link to work:** [NLW#6 - Discover](https://github.com/fabrinanunes/nlw6-discover) & [NLW#6 - Origin](https://github.com/fabrinanunes/nlw6-origin)
