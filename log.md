@@ -105,3 +105,10 @@ Also, I started to read "Code Clean".
 **Today's Progress**: NLW #6 - Day IV
 
 **Link to work:** [NLW#6 - Origin](https://github.com/fabrinanunes/nlw6-origin)
+
+### Day 18: Jun 25, 2021
+
+**Today's Progress**: NLW #6 - Day V
+
+**Link to work:** [NLW#6 - Discover](https://github.com/fabrinanunes/nlw6-discover)
+
