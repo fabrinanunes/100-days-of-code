@@ -112,3 +112,8 @@ Also, I started to read "Code Clean".
 
 **Link to work:** [NLW#6 - Discover](https://github.com/fabrinanunes/nlw6-discover)
 
+### Day 19: Jun 26, 2021
+
+**Today's Progress**: NLW #6 - Extra: add dark mode option
+
+**Link to work:** [NLW#6 - Discover](https://github.com/fabrinanunes/nlw6-discover)
