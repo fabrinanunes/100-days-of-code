@@ -102,7 +102,7 @@ Also, I started to read "Code Clean".
 
 ### Day 17: Jun 24, 2021
 
-**Today's Progress**: NLW #6 - Day IV
+**Today's Progress**: NLW #6 - Day V
 
 **Link to work:** [NLW#6 - Origin](https://github.com/fabrinanunes/nlw6-origin)
 
