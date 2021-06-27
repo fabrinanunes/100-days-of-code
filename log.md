@@ -117,3 +117,7 @@ Also, I started to read "Code Clean".
 **Today's Progress**: NLW #6 - Extra: add dark mode option
 
 **Link to work:** [NLW#6 - Discover](https://github.com/fabrinanunes/nlw6-discover)
+
+### Day 20: Jun 27, 2021
+
+**Today's Progress**: NLW #6 - start Mission React
