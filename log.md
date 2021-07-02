@@ -121,3 +121,23 @@ Also, I started to read "Code Clean".
 ### Day 20: Jun 27, 2021
 
 **Today's Progress**: NLW #6 - start Mission React
+
+### Day 21: Jun 28, 2021
+
+**Today's Progress**: NLW #6 - Mission React
+
+### Day 22: Jun 29, 2021
+
+**Today's Progress**: NLW #6 - Mission React
+
+### Day 23: Jun 30, 2021
+
+**Today's Progress**: NLW #6 - Mission React
+
+### Day 24: Jul 1, 2021
+
+**Today's Progress**: NLW #6 - Mission React
+
+### Day 25: Jul 2, 2021
+
+**Today's Progress**: NLW #6 - Mission React
