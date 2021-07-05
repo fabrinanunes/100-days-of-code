@@ -140,4 +140,24 @@ Also, I started to read "Code Clean".
 
 ### Day 25: Jul 2, 2021
 
-**Today's Progress**: NLW #6 - Mission React
+**Today's Progress**: Guia Estelas JS
+
+### Day 26: Jul 3, 2021
+
+**Today's Progress**: Guia Estelas JS
+
+### Day 27: Jul 3, 2021
+
+**Today's Progress**: Guia Estelas JS
+
+### Day 28: Jul 4, 2021
+
+**Today's Progress**: Blog Codelândia: no responsive
+
+**Link to work:** [Blog Codelândia](https://github.com/fabrinanunes/blog-codelandia)
+
+### Day 29: Jul 5, 2021
+
+**Today's Progress**: Blog Codelândia: responsive
+
+**Link to work:** [Blog Codelândia](https://github.com/fabrinanunes/blog-codelandia)
