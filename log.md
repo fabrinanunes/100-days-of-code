@@ -161,3 +161,21 @@ Also, I started to read "Code Clean".
 **Today's Progress**: Blog Codelândia: responsive
 
 **Link to work:** [Blog Codelândia](https://github.com/fabrinanunes/blog-codelandia)
+
+### Day 30: Jul 6, 2021 (my bday 🥳🎂)
+
+** Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
+
+**Link to work:** [Bootcamp Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp)
+
+### Day 31: Jul 7, 2021
+
+** Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
+
+**Link to work:** [JavaScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/JavaScript)
+
+### Day 32: Jul 8, 2021
+
+** Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
+
+**Link to work:** [JavaScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/JavaScript)
