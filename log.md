@@ -179,3 +179,17 @@ Also, I started to read "Code Clean".
 ** Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
 
 **Link to work:** [JavaScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/JavaScript)
+
+### Day 33: Jul 9, 2021
+
+** Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
+
+**Link to work:** [JavaScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/JavaScript)
+
+### Day 33: Jul 10, 2021
+
+** Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
+
+**Link to work:** [JavaScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/JavaScript)
+
+
