@@ -164,32 +164,36 @@ Also, I started to read "Code Clean".
 
 ### Day 30: Jul 6, 2021 (my bday 🥳🎂)
 
-** Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
+**Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
 
 **Link to work:** [Bootcamp Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp)
 
 ### Day 31: Jul 7, 2021
 
-** Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
+**Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
 
 **Link to work:** [JavaScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/JavaScript)
 
 ### Day 32: Jul 8, 2021
 
-** Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
+**Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
 
 **Link to work:** [JavaScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/JavaScript)
 
 ### Day 33: Jul 9, 2021
 
-** Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
+**Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
 
 **Link to work:** [JavaScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/JavaScript)
 
 ### Day 33: Jul 10, 2021
 
-** Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
+**Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
 
 **Link to work:** [JavaScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/JavaScript)
 
+### Day 34: Jul 11, 2021
 
+**Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
+
+**Link to work:** [JavaScript Project](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/JavaScript)
