@@ -197,3 +197,21 @@ Also, I started to read "Code Clean".
 **Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
 
 **Link to work:** [JavaScript Project](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/JavaScript)
+
+### Day 36: Jul 12, 2021
+
+**Today's Progress**: #FroontWeek - Portfolio Project
+
+**Link to work:** [#FrontWeek Project](https://github.com/fabrinanunes/frontweek-portfolio)
+
+### Day 37: Jul 13, 2021
+
+**Today's Progress**: #Challenge01 Landing Page (Bootcamp - Hiring Coders by Gama Academy)
+
+**Link to work:** 
+
+### Day 38: Jul 14, 2021
+
+**Today's Progress**: #FroontWeek - Portfolio Project
+
+**Link to work:** [#FrontWeek Project](https://github.com/fabrinanunes/frontweek-portfolio)
