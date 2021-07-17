@@ -263,3 +263,10 @@ Also, I started to read "Code Clean".
 **Today's Progress**: Tic Tac Toe Challenge by SkyOneSolution
 
 **Link to work:** [Tic Tac Toe](https://github.com/fabrinanunes/projeto_react_SkyOne2021_FabrinaNunes)
+
+
+### Day 41: Jul 17, 2021
+
+**Today's Progress**: Alurakut - Imersão React by Alura
+
+**Link to work:** [Alurakut](https://github.com/fabrinanunes/alurakut)
