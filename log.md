@@ -256,3 +256,10 @@ Also, I started to read "Code Clean".
 **Today's Progress**: Hogwarts Tickets & TypeScrip class - Hiring Coders by Gama Academy
 
 **Link to work:** [Hogwarts Tickets](https://github.com/fabrinanunes/hogwarts-tickets) & [TypeScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/Typescript)
+
+
+### Day 40: Jul 16, 2021
+
+**Today's Progress**: Tic Tac Toe Challenge by SkyOneSolution
+
+**Link to work:** [Tic Tac Toe](https://github.com/fabrinanunes/projeto_react_SkyOne2021_FabrinaNunes)
