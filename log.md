@@ -253,7 +253,7 @@ Also, I started to read "Code Clean".
 
 ### Day 39: Jul 15, 2021
 
-**Today's Progress**: Hogwarts Tickets & TypeScrip class - Hiring Coders by Gama Academy
+**Today's Progress**: Hogwarts Tickets & TypeScript class - Hiring Coders by Gama Academy
 
 **Link to work:** [Hogwarts Tickets](https://github.com/fabrinanunes/hogwarts-tickets) & [TypeScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/Typescript)
 
@@ -270,3 +270,10 @@ Also, I started to read "Code Clean".
 **Today's Progress**: Alurakut - Imersão React by Alura
 
 **Link to work:** [Alurakut](https://github.com/fabrinanunes/alurakut)
+
+
+### Day 42: Jul 18, 2021
+
+**Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
+
+**Link to work:** [TypeScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/Typescript)
