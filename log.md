@@ -163,15 +163,21 @@ Also, I started to read "Code Clean".
 
 **Today's Progress**: Guia Estelas JS
 
+**Link to work:** [Guia JS](https://github.com/fabrinanunes/guia-estelar-js)
+
 
 ### Day 26: Jul 3, 2021
 
 **Today's Progress**: Guia Estelas JS
 
+**Link to work:** [Guia JS](https://github.com/fabrinanunes/guia-estelar-js)
+
 
 ### Day 27: Jul 3, 2021
 
 **Today's Progress**: Guia Estelas JS
+
+**Link to work:** [Guia JS](https://github.com/fabrinanunes/guia-estelar-js)
 
 
 ### Day 28: Jul 4, 2021
@@ -277,3 +283,16 @@ Also, I started to read "Code Clean".
 **Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
 
 **Link to work:** [TypeScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/Typescript)
+
+### Day 43: Jul 19, 2021
+
+**Today's Progress**: Projeto JS - Bateria & Guia Estelas JS 
+
+**Link to work:** [Bateria](https://github.com/fabrinanunes/bateria) & [Guia Estelar](https://github.com/fabrinanunes/guia-estelar-js)
+
+
+### Day 44: Jul 20, 2021
+
+**Today's Progress**: Projeto JS - Relógio
+
+**Link to work:** [Relógio](https://github.com/fabrinanunes/relogios-analogico-digital)
