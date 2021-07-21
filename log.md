@@ -296,3 +296,10 @@ Also, I started to read "Code Clean".
 **Today's Progress**: Projeto JS - Relógio
 
 **Link to work:** [Relógio](https://github.com/fabrinanunes/relogios-analogico-digital)
+
+
+### Day 45: Jul 21, 2021
+
+**Today's Progress**: Projeto JS - Previsão do Tempo
+
+**Link to work:** [Previsão do Tempo](https://github.com/fabrinanunes/previsao-do-tempo)
