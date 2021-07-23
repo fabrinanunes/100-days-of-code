@@ -303,3 +303,10 @@ Also, I started to read "Code Clean".
 **Today's Progress**: Projeto JS - Previsão do Tempo
 
 **Link to work:** [Previsão do Tempo](https://github.com/fabrinanunes/previsao-do-tempo)
+
+
+### Day 46: Jul, 22, 2021
+
+**Today's Progress**: Projeto JS - Jogo da Velha & Alurakut - Imersão React by Alura
+
+**Link to work:** [Jogo da Velha](https://github.com/fabrinanunes/jogo-da-velha) & [Alurakut](https://github.com/fabrinanunes/alurakut)
