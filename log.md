@@ -284,6 +284,7 @@ Also, I started to read "Code Clean".
 
 **Link to work:** [TypeScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/Typescript)
 
+
 ### Day 43: Jul 19, 2021
 
 **Today's Progress**: Projeto JS - Bateria & Guia Estelas JS 
@@ -315,4 +316,12 @@ Also, I started to read "Code Clean".
 ### Day 47: Jul, 23, 2021
 
 **Today's Progress**: Projeto JS - Paint
+
 **Link to work:** [Paint](https://github.com/fabrinanunes/paint)
+
+
+### Day 48: Jul, 24, 2021
+
+**Today's Progress**: Projeto JS - Quiz
+
+**Link to work:** [Quiz sobre JS](https://github.com/fabrinanunes/quiz)
