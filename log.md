@@ -325,3 +325,10 @@ Also, I started to read "Code Clean".
 **Today's Progress**: Projeto JS - Quiz
 
 **Link to work:** [Quiz sobre JS](https://github.com/fabrinanunes/quiz)
+
+
+### Day 49: Jul, 25, 2021
+
+**Today's Progress**: Projeto JS - Drag & Drop
+
+**Link to work:** [Drag&Drop](https://github.com/fabrinanunes/drag-drop)
