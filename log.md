@@ -332,3 +332,10 @@ Also, I started to read "Code Clean".
 **Today's Progress**: Projeto JS - Drag & Drop
 
 **Link to work:** [Drag&Drop](https://github.com/fabrinanunes/drag-drop)
+
+
+### Day 50: Jul, 26, 2021
+
+**Today's Progress**: Curso em Vídeo - Módulo II
+
+**Link to work:** [Desafio](https://github.com/fabrinanunes/curso-em-video-html-css/tree/main/Mo%CC%81dulo%20II/Desafios/Desafio%2001)
