@@ -339,3 +339,24 @@ Also, I started to read "Code Clean".
 **Today's Progress**: Curso em Vídeo - Módulo II
 
 **Link to work:** [Desafio](https://github.com/fabrinanunes/curso-em-video-html-css/tree/main/Mo%CC%81dulo%20II/Desafios/Desafio%2001)
+
+
+### Day 51: Jul, 27, 2021
+
+**Today's Progress**: Curso em Vídeo - Módulo II
+
+**Link to work:** [Desafio](https://github.com/fabrinanunes/curso-em-video-html-css/tree/main/Mo%CC%81dulo%20II/Desafios/Desafio%2001)
+
+
+### Day 52: Jul, 28, 2021
+
+**Today's Progress**: Front Week - Aula II
+
+**Link to work:** [FrontWeek - Portifólio](https://github.com/fabrinanunes/frontweek-portfolio)
+
+
+### Day 53: Jul, 29, 2021
+
+**Today's Progress**: Front Week - Aula III
+
+**Link to work:** [FrontWeek - Portifólio](https://github.com/fabrinanunes/frontweek-portfolio)
