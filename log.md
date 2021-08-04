@@ -360,3 +360,37 @@ Also, I started to read "Code Clean".
 **Today's Progress**: Front Week - Aula III
 
 **Link to work:** [FrontWeek - Portifólio](https://github.com/fabrinanunes/frontweek-portfolio)
+
+
+### Day 54: Jul, 30, 2021
+
+**Today's Progress:** Curso Web Moderno
+
+**Link to work:** [Curso Web Moderno](https://github.com/fabrinanunes/curso-web-moderno)
+
+
+### Day 55: Jul, 31, 2021
+
+**Today's Progress:** Curso Web Moderno
+
+**Link to work:** [Curso Web Moderno](https://github.com/fabrinanunes/curso-web-moderno)
+
+
+### Day 56: Ago, 1, 2021
+
+**Today's Progress:** NLW 06 - NodeJs I
+
+**Link to work:** [Valoriza](https://github.com/fabrinanunes/nlw6-nodejs)
+
+
+### Day 56: Ago, 2, 2021
+
+**Today's Progress:** NLW 06 - NodeJs II
+
+**Link to work:** [Valoriza](https://github.com/fabrinanunes/nlw6-nodejs)
+
+### Day 56: Ago, 3, 2021
+
+**Today's Progress:** Curso Web Moderno
+
+**Link to work:** [Curso Web Moderno](https://github.com/fabrinanunes/curso-web-moderno)
