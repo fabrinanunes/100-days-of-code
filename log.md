@@ -383,14 +383,36 @@ Also, I started to read "Code Clean".
 **Link to work:** [Valoriza](https://github.com/fabrinanunes/nlw6-nodejs)
 
 
-### Day 56: Ago, 2, 2021
+### Day 57: Ago, 2, 2021
 
 **Today's Progress:** NLW 06 - NodeJs II
 
 **Link to work:** [Valoriza](https://github.com/fabrinanunes/nlw6-nodejs)
 
-### Day 56: Ago, 3, 2021
+
+### Day 58: Ago, 3, 2021
 
 **Today's Progress:** Curso Web Moderno
 
 **Link to work:** [Curso Web Moderno](https://github.com/fabrinanunes/curso-web-moderno)
+
+
+### Day 59: Ago, 4, 2021
+
+**Today's Progress:** NLW 06 - NodeJs III
+
+**Link to work:** [Valoriza](https://github.com/fabrinanunes/nlw6-nodejs)
+
+
+### Day 60: Ago, 5, 2021
+
+**Today's Progress:** NLW 06 - NodeJs IV
+
+**Link to work:** [Valoriza](https://github.com/fabrinanunes/nlw6-nodejs)
+
+
+### Day 61: Ago, 6, 2021
+
+**Today's Progress:** NLW 06 - NodeJs V
+
+**Link to work:** [Valoriza](https://github.com/fabrinanunes/nlw6-nodejs)
