@@ -416,3 +416,10 @@ Also, I started to read "Code Clean".
 **Today's Progress:** NLW 06 - NodeJs V
 
 **Link to work:** [Valoriza](https://github.com/fabrinanunes/nlw6-nodejs)
+
+
+### Day 62: Ago, 7, 2021
+
+**Today's Progress:** Curso em Vídeo - Módulo II
+
+**Link to work:** [Módulo II Completo](https://github.com/fabrinanunes/curso-em-video-html-css)
