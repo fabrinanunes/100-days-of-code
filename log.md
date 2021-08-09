@@ -163,21 +163,21 @@ Also, I started to read "Code Clean".
 
 **Today's Progress**: Guia Estelas JS
 
-**Link to work:** [Guia JS](https://github.com/fabrinanunes/guia-estelar-js)
+**Link to work:** [Guia JS](https://github.com/fabrinanunes/estudos/tree/main/rocketseat/guia-estelar-js)
 
 
 ### Day 26: Jul 3, 2021
 
 **Today's Progress**: Guia Estelas JS
 
-**Link to work:** [Guia JS](https://github.com/fabrinanunes/guia-estelar-js)
+**Link to work:** [Guia JS](https://github.com/fabrinanunes/estudos/tree/main/rocketseat/guia-estelar-js)
 
 
 ### Day 27: Jul 3, 2021
 
 **Today's Progress**: Guia Estelas JS
 
-**Link to work:** [Guia JS](https://github.com/fabrinanunes/guia-estelar-js)
+**Link to work:** [Guia JS](https://github.com/fabrinanunes/estudos/tree/main/rocketseat/guia-estelar-js)
 
 
 ### Day 28: Jul 4, 2021
@@ -198,42 +198,42 @@ Also, I started to read "Code Clean".
 
 **Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
 
-**Link to work:** [Bootcamp Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp)
+**Link to work:** [Bootcamp Notes](https://github.com/fabrinanunes/estudos/tree/main/hiring-coders-bootcamp)
 
 
 ### Day 31: Jul 7, 2021
 
 **Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
 
-**Link to work:** [JavaScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/JavaScript)
+**Link to work:** [JavaScript Notes](https://github.com/fabrinanunes/estudos/tree/main/hiring-coders-bootcamp/JavaScript)
 
 
 ### Day 32: Jul 8, 2021
 
 **Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
 
-**Link to work:** [JavaScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/JavaScript)
+**Link to work:** [JavaScript Notes](https://github.com/fabrinanunes/estudos/tree/main/hiring-coders-bootcamp/JavaScript)
 
 
 ### Day 33: Jul 9, 2021
 
 **Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
 
-**Link to work:** [JavaScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/JavaScript)
+**Link to work:** [JavaScript Notes](https://github.com/fabrinanunes/estudos/tree/main/hiring-coders-bootcamp/JavaScript)
 
 
 ### Day 34: Jul 10, 2021
 
 **Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
 
-**Link to work:** [JavaScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/JavaScript)
+**Link to work:** [JavaScript Notes](https://github.com/fabrinanunes/estudos/tree/main/hiring-coders-bootcamp/JavaScript)
 
 
 ### Day 35: Jul 11, 2021
 
 **Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
 
-**Link to work:** [JavaScript Project](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/JavaScript)
+**Link to work:** [JavaScript Project](https://github.com/fabrinanunes/estudos/tree/main/hiring-coders-bootcamp/JavaScript/Projeto)
 
 
 ### Day 36: Jul 12, 2021
@@ -282,14 +282,14 @@ Also, I started to read "Code Clean".
 
 **Today's Progress**: Bootcamp - Hiring Coders by Gama Academy
 
-**Link to work:** [TypeScript Notes](https://github.com/fabrinanunes/hiring-coders-bootcamp/tree/main/Typescript)
+**Link to work:** [TypeScript Notes](https://github.com/fabrinanunes/estudos/tree/main/hiring-coders-bootcamp/Typescript)
 
 
 ### Day 43: Jul 19, 2021
 
 **Today's Progress**: Projeto JS - Bateria & Guia Estelas JS 
 
-**Link to work:** [Bateria](https://github.com/fabrinanunes/bateria) & [Guia Estelar](https://github.com/fabrinanunes/guia-estelar-js)
+**Link to work:** [Bateria](https://github.com/fabrinanunes/bateria) & [Guia Estelar](https://github.com/fabrinanunes/estudos/tree/main/rocketseat/guia-estelar-js)
 
 
 ### Day 44: Jul 20, 2021
@@ -373,7 +373,7 @@ Also, I started to read "Code Clean".
 
 **Today's Progress:** Curso Web Moderno
 
-**Link to work:** [Curso Web Moderno](https://github.com/fabrinanunes/curso-web-moderno)
+**Link to work:** [Curso Web Moderno](https://github.com/fabrinanunes/estudos/tree/main/curso-web-moderno)
 
 
 ### Day 56: Ago, 1, 2021
@@ -394,7 +394,7 @@ Also, I started to read "Code Clean".
 
 **Today's Progress:** Curso Web Moderno
 
-**Link to work:** [Curso Web Moderno](https://github.com/fabrinanunes/curso-web-moderno)
+**Link to work:** [Curso Web Moderno](https://github.com/fabrinanunes/estudos/tree/main/curso-web-moderno)
 
 
 ### Day 59: Ago, 4, 2021
@@ -423,3 +423,17 @@ Also, I started to read "Code Clean".
 **Today's Progress:** Curso em Vídeo - Módulo II
 
 **Link to work:** [Módulo II Completo](https://github.com/fabrinanunes/curso-em-video-html-css)
+
+
+### Day 63: Ago, 8, 2021
+
+**Today's Progress:** Curso Web Moderno
+
+**Link to work:** [Curso Web Moderno](https://github.com/fabrinanunes/estudos/tree/main/curso-web-moderno)
+
+
+### Day 64: Ago, 9, 2021
+
+**Today's Progress:** Curso Web Moderno
+
+**Link to work:** [Curso Web Moderno](https://github.com/fabrinanunes/estudos/tree/main/curso-web-moderno)
