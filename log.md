@@ -437,3 +437,10 @@ Also, I started to read "Code Clean".
 **Today's Progress:** Curso Web Moderno
 
 **Link to work:** [Curso Web Moderno](https://github.com/fabrinanunes/estudos/tree/main/curso-web-moderno)
+
+
+### Day 65: Ago, 10, 2021
+
+**Today's Progress:** Curso Web Moderno
+
+**Link to work:** [Curso Web Moderno](https://github.com/fabrinanunes/estudos/tree/main/curso-web-moderno)
